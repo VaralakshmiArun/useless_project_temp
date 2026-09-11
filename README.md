@@ -69,7 +69,7 @@ For Software:
 ![Screenshot1](screenshots/opening.png)
 *OPENING*
 
-![Screenshot2](captcha.png)
+![Screenshot2](screenshots/captcha.png)
 *Captcha Testing*
 
 ![Screenshot3](screenshots/ending.png)

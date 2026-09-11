@@ -63,13 +63,13 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](screenshots/Screenshot (125).png)
+![Screenshot1](screenshots/opening.png)
 *OPENING*
 
-![Screenshot2](screenshots/Screenshot (129).png)
+![Screenshot2](captcha.png)
 *Captcha Testing*
 
-![Screenshot3](screenshots/Screenshot (130).png)
+![Screenshot3](screenshots/ending.png)
 *Ending*
 
 # Diagrams

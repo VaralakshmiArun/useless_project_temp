@@ -10,9 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: Varalakshmi - AISAT
-- Member 3: Febin - AISAT
+- Team Lead: Varalakshmi - AISAT
+- Member 2: Febin - AISAT
 
 ### Project Description
 A fun hackathon project that turns frustrating CAPTCHA experiences into an entertaining and interactive web experience.

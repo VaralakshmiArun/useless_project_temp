@@ -97,10 +97,8 @@ For Software:
    │
    ▼
 [ User Experience ]
-   - Cute pixel theme
    - Interactive but always failing
-   - Demo-ready for hackathon
-
+   
 
 
 ### Project Demo

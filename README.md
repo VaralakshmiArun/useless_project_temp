@@ -18,10 +18,13 @@
 A fun hackathon project that turns frustrating CAPTCHA experiences into an entertaining and interactive web experience.
 
 ### The Problem (that doesn't exist)
-Accessing of humans into websites
+
+Traditional CAPTCHAs are designed to stop bots from accessing websites. We decided to create the opposite problem — a CAPTCHA that refuses to accept humans, no matter how hard they try.
+
 
 ### The Solution (that nobody asked for)
-Does not give access to humans by using captchas
+
+We created a deliberately useless CAPTCHA that always rejects the user. Every failed attempt generates a funny roast or reaction, turning a frustrating CAPTCHA experience into an entertaining one.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -38,7 +41,7 @@ No dedicated hardware components — runs on any standard PC/laptop with Node.js
 For Software:
 # Installation
 # clone repo
-git clone https://github.com/<your-username>/CaptchaNeverAccepts.git
+git clone https://github.com/VaralakshmiArun/CaptchaNeverAccepts.git
 cd CaptchaNeverAccepts
 
 # install frontend
@@ -52,8 +55,9 @@ npm install
 
 # Run
 # start backend
+cd backend
 node server.js
-
+#In a new terminal
 # start frontend
 cd frontend
 npm run dev
@@ -108,9 +112,9 @@ For Software:
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+- Varalakshmi: Frontend development, UI design, CAPTCHA interaction and project integration.
+- Febin: Backend development, CAPTCHA verification logic and API integration.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

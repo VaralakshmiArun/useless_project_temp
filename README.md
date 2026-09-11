@@ -57,8 +57,7 @@ npm install
 # start backend
 cd backend
 node server.js
-#In a new terminal
-# start frontend
+# start frontend (in new terminal)
 cd frontend
 npm run dev
 
@@ -66,7 +65,7 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](screenshots/opening.png)
 *OPENING*
 

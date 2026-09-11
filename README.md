@@ -106,7 +106,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[Add your demo video link here](screenshots/demovid)
 *Explain what the video demonstrates*
 
 

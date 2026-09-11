@@ -75,31 +75,9 @@ For Software:
 *Ending*
 
 # Diagrams
- Workflow!
-[ User ] 
-   │
-   ▼
-[ Frontend (React + Tailwind + Vite) ]
-   │   - Displays captcha UI
-   │   - Pixel aesthetic + roast messages
-   │   - Failure counter + denial log
-   │
-   ▼
-[ Backend (Node.js + Express) ]
-   │   - Routes: /verifyCaptcha, /audioCaptcha
-   │   - Always denies attempts
-   │   - Generates roast messages
-   │
-   ▼
-[ Denial Log / Roast History ]
-   │   - Updates live on frontend
-   │   - Shows counter + recent failures
-   │
-   ▼
-[ User Experience ]
-   - Interactive but always failing
-   
-
+Workflow!
+![diagram](screenshots/diagram.png)
+ 
 
 ### Project Demo
 # Video

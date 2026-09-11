@@ -107,7 +107,8 @@ For Software:
 ### Project Demo
 # Video
 [https://drive.google.com/file/d/1S-Igov1eVD9IaWkJlkBNCQpZoaKlVSIe/view?usp=sharing](screenshots/demovid)
-*Explain what the video demonstrates*
+
+This demo showcases our intentionally useless CAPTCHA that never accepts human users. It demonstrates the interactive CAPTCHA, failed verification attempts, failure counter, roast messages, and the fun themed interface.
 
 
 ## Team Contributions
